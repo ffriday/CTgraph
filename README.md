@@ -1,2 +1,2 @@
 # CTgraph
-Operation schedule
+Operation schedule for construction projects
